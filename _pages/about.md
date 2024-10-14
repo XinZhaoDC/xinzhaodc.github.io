@@ -17,18 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently the final-year Ph.D in the State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University, supervised by Prof. BiSheng Yang and Prof. Zhen Dong. I work closely with the research fellow Dr. Jianping Li at Nanyang Technological University. Before this, I received the M.S. degree in School of Geodesy and Geomatics, Wuhan University in 2019, supervised by A. Prof. Li Zheng and A. Prof. Zheng Ji. Prior to WHU, I received the B.S. degree in Tai Yuan University of Technology in 2017.
+I am currently a Ph.D Ph.D. student at the [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), under the supervision of Prof. [Zhen Dong](https://dongzhenwhu.github.io/index.html), Prof. [BiSheng Yang](https://3s.whu.edu.cn/ybs/index.htm) and Prof. [Qin Zou](https://cs.whu.edu.cn/info/1019/2838.htm). I work closely with the research fellow Dr. Jianping Li at Nanyang Technological University. Before this, I received the M.S. degree in [LIESMARS](https://liesmars.whu.edu.cn/), Wuhan University in 2023 and the B.S. degree at [SGG](https://main.sgg.whu.edu.cn/) of Wuhan University.
 
-I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advancements on point cloud processing including enhancement, registration, localization, segmentation, detection, etc.
+My research interests robot mapping and positioning, such as LiDAR SLAM, Place Recognition and Localization. I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advancements on point cloud processing including enhancement, registration, localization, segmentation, detection, etc.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
-
+<!--
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-->
 
+<!--
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -48,14 +50,17 @@ I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advan
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2023.09 - (now)*, Ph.D, School of Computer Science, Wuhan University.
+- *2020.09 - 2023.06*, M.S., LIESMARS, Wuhan University.
+- *2016.09 - 2020.06*, B.S., SGG, Wuhan University.
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
