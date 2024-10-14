@@ -83,6 +83,8 @@ Powerline inspection software development, *2021.03-2021.06*, \| `C++` \| `Qt` \
 - *2023.09 - (now)*, Ph.D, School of Computer Science, Wuhan University.
 - *2020.09 - 2023.06*, M.S., LIESMARS, Wuhan University.
 - *2016.09 - 2020.06*, B.S., SGG, Wuhan University.
+
+
 <!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
