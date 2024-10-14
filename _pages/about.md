@@ -39,12 +39,39 @@ My research interests robot mapping and positioning, such as LiDAR SLAM, Place R
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+-->
 
+<!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+-->
+# 💻 Projects
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Point2Model 2021</div><img src='images/projects/Point2Model.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+Point2Model development, *2021.07-2021.12*. \| `C++` \| `Microstation`\| [Commercial Software Page](http://www.dynspai.com/dydwswtqyyyjjfa).
+
++ **Feature**: MLS position inconsistency correction module, Cloud2Cloud distance check module.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Powerline Simulation 2021</div><img src='images/projects/PowerlineSimulation.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Powerline inspection software development, *2021.03-2021.06*, \| `C++` \| `Qt` \| `Matlab`.
+
++ **Feature**: Automatic point cloud division of power corridor, Individual powerline coefficient estimation, Transmission line sag simulation, Point cloud and aerial image fusion, Risk detection and report print.
+
+</div>
+</div>
+
+<!--
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
