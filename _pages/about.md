@@ -30,33 +30,61 @@ My research interests robot mapping and positioning, such as LiDAR SLAM, Place R
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
-<!--
+
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!--
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS J 2023</div><img src='images/publications/ISPRS20230921.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[MuCoGraph: A Multi-scale Constraint Enhanced Pose Graph Framework for MLS Point Cloud Inconsistency  Correction](https://www.sciencedirect.com/science/article/abs/pii/S0924271623002599).
+**Yuhao Li**, Xianghong Zou, Tian Li, Sihan Sun, Yuan Wang, Fuxun Liang, Jianping Li, Bisheng Yang, Zhen Dong. (SCI1-TOP, IF:12.7).  \| [Wechat](https://mp.weixin.qq.com/s/9dgklKTO97EI210vnNedog) \| [Youtube](https://www.youtube.com/watch?v=57h50gP84mQ) \| [Bilibili](https://www.bilibili.com/video/BV1Lj411C7NV/?share_source=copy_web&vd_source=824f51136eb80b5d06dddf1729586c4a).
+</div>
+</div>
 -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PHOR 2024</div><img src='images/publications/PHOR 20240724.jpg' alt="sym" width="101%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Coarse-to-fine adjustment for multi-platform point cloud fusion](https://onlinelibrary.wiley.com/doi/abs/10.1111/phor.12513). 
+
+**Xin Zhao**, Jianping Li†, Yuhao Li,  Bisheng Yang, Sihan Sun, Yongfeng Lin, Zhen Dong. 
+*The Photogrammetric Record (PHOR)* 2024
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Deep Space Exploration 2024</div><img src='images/publications/Journal of Deep Space Exploration 20240830.gif' alt="sym" width="101%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[3D Detection of Extraterrestrial Lava Tunnels Based on Lightweight Mobile Measurement System and Surface Verification on Earth](https://jdse.bit.edu.cn/sktcxb/article/doi/10.15982/j.issn.2096-9287.2024.20230143). 
+
+**Xin Zhao**, Fuxun Liang, Jianping Li,  Bisheng Yan†. 
+*Journal of Deep Space Exploration* 2024
+
+</div>
+</div>
+
+
+
+<!--
++ ``TGRS 2024`` [A novel method for registration of MLS and stereo reconstructed point clouds](https://ieeexplore.ieee.org/abstract/document/10500860). Xiaochen Yang, Haiping Wang, Zhen Dong, Yuan Liu, **Yuhao Li**, Bisheng Yang. (SCI1-TOP, IF:  8.2). \|[Code](https://github.com/WHU-USI3DV/MSReg).
+-->
+
+# 💻 Projects
 <!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 -->
-# 💻 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Point2Model 2021</div><img src='images/projects/Point2Model.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Point2Model 2023</div><img src='images/projects/Point2Model.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
+Point2Model development, *2022.10-2024.03*. \| `C++` \| `Microstation`\| [Commercial Software Page](http://www.dynspai.com/dydwswtqyyyjjfa).
 
-Point2Model development, *2021.07-2021.12*. \| `C++` \| `Microstation`\| [Commercial Software Page](http://www.dynspai.com/dydwswtqyyyjjfa).
-
-+ **Feature**: MLS position inconsistency correction module, Cloud2Cloud distance check module.
++ **Feature**: Multi-platform point cloud fusion.
 
 </div>
 </div>
@@ -64,16 +92,14 @@ Point2Model development, *2021.07-2021.12*. \| `C++` \| `Microstation`\| [Commer
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Powerline Simulation 2021</div><img src='images/projects/PowerlineSimulation.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Powerline inspection software development, *2021.03-2021.06*, \| `C++` \| `Qt` \| `Matlab`.
+Powerline inspection software development, *2021.03-2021.06*, \| `C++` \| `Qt`.
 
-+ **Feature**: Automatic point cloud division of power corridor, Individual powerline coefficient estimation, Transmission line sag simulation, Point cloud and aerial image fusion, Risk detection and report print.
++ **Feature**: Automatic point cloud division of power corridor, Risk detection and report print.
 
 </div>
 </div>
 
 <!--
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
