@@ -58,7 +58,7 @@ My research interests robot mapping and positioning, such as LiDAR SLAM, Place R
 
 [3D Detection of Extraterrestrial Lava Tunnels Based on Lightweight Mobile Measurement System and Surface Verification on Earth](https://jdse.bit.edu.cn/sktcxb/article/doi/10.15982/j.issn.2096-9287.2024.20230143). 
 
-**Xin Zhao**, Jianping Li†, Yuhao Li,  Bisheng Yang, Sihan Sun, Yongfeng Lin, Zhen Dong. 
+**Xin Zhao**, Fuxun Liang, Jianping Li,  Bisheng Yan†. 
 *Journal of Deep Space Exploration* 2024
 
 </div>
