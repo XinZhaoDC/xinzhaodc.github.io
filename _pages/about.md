@@ -65,6 +65,7 @@ My research interests robot mapping and positioning, such as LiDAR SLAM, Place R
 </div>
 
 
++ ``JAG 2023`` [Real-time automated forest field inventory using a compact low-cost helmet-based laser scanning system]([https://ieeexplore.ieee.org/abstract/document/10123040](https://www.sciencedirect.com/science/article/pii/S1569843223001218)). Jianping Li, Bisheng Yang, Yandi Yang, **Xin Zhao**, Youqi Liao, Ningning Zhu, Wenxia Dai, Rundong Liu, Ruibo Chen, Zhen Dong.
 
 <!--
 + ``TGRS 2024`` [A novel method for registration of MLS and stereo reconstructed point clouds](https://ieeexplore.ieee.org/abstract/document/10500860). Xiaochen Yang, Haiping Wang, Zhen Dong, Yuan Liu, **Yuhao Li**, Bisheng Yang. (SCI1-TOP, IF:  8.2). \|[Code](https://github.com/WHU-USI3DV/MSReg).
