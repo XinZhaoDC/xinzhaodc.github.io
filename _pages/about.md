@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D Ph.D. student at the [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), under the supervision of Prof. [Zhen Dong](https://dongzhenwhu.github.io/index.html), Prof. [BiSheng Yang](https://3s.whu.edu.cn/ybs/index.htm) and Prof. [Qin Zou](https://cs.whu.edu.cn/info/1019/2838.htm). I work closely with the research fellow Dr. Jianping Li at Nanyang Technological University. Before this, I received the M.S. degree in [LIESMARS](https://liesmars.whu.edu.cn/), Wuhan University in 2023 and the B.S. degree at [SGG](https://main.sgg.whu.edu.cn/) of Wuhan University.
+I am currently a Ph.D. student at the [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), under the supervision of Prof. [Zhen Dong](https://dongzhenwhu.github.io/index.html), Prof. [BiSheng Yang](https://3s.whu.edu.cn/ybs/index.htm) and Prof. [Qin Zou](https://cs.whu.edu.cn/info/1019/2838.htm). I work closely with the research fellow Dr. Jianping Li at Nanyang Technological University. Before this, I received the M.S. degree in [LIESMARS](https://liesmars.whu.edu.cn/), Wuhan University in 2023 and the B.S. degree at [SGG](https://main.sgg.whu.edu.cn/) of Wuhan University.
 
 My research interests robot mapping and positioning, such as LiDAR SLAM, Place Recognition and Localization. I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advancements on point cloud processing including enhancement, registration, localization, segmentation, detection, etc.
 
