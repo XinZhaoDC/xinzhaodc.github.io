@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D Ph.D. student at the [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), under the supervision of Prof. [Zhen Dong](https://dongzhenwhu.github.io/index.html), Prof. [BiSheng Yang](https://3s.whu.edu.cn/ybs/index.htm) and Prof. [Qin Zou](https://cs.whu.edu.cn/info/1019/2838.htm). I work closely with the research fellow Dr. Jianping Li at Nanyang Technological University. Before this, I received the M.S. degree in [LIESMARS](https://liesmars.whu.edu.cn/), Wuhan University in 2023 and the B.S. degree at [SGG](https://main.sgg.whu.edu.cn/) of Wuhan University.
+I am currently a Ph.D. student at the [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), under the supervision of Prof. [Zhen Dong](https://dongzhenwhu.github.io/index.html), Prof. [BiSheng Yang](https://3s.whu.edu.cn/ybs/index.htm) and Prof. [Qin Zou](https://cs.whu.edu.cn/info/1019/2838.htm). I work closely with the research fellow Dr. Jianping Li at Nanyang Technological University. Before this, I received the M.S. degree in [LIESMARS](https://liesmars.whu.edu.cn/), Wuhan University in 2023 and the B.S. degree at [SGG](https://main.sgg.whu.edu.cn/) of Wuhan University.
 
 My research interests robot mapping and positioning, such as LiDAR SLAM, Place Recognition and Localization. I am a member of [WHU-USI3DV](https://github.com/WHU-USI3DV), please check advancements on point cloud processing including enhancement, registration, localization, segmentation, detection, etc.
 
@@ -47,7 +47,7 @@ My research interests robot mapping and positioning, such as LiDAR SLAM, Place R
 
 [Coarse-to-fine adjustment for multi-platform point cloud fusion](https://onlinelibrary.wiley.com/doi/abs/10.1111/phor.12513). 
 
-**Xin Zhao**, Jianping Li†, Yuhao Li,  Bisheng Yang, Sihan Sun, Yongfeng Lin, Zhen Dong. 
+**Xin Zhao**, Jianping Li†, Yuhao Li,  Bisheng Yang, Sihan Sun, Yongfeng Lin, Zhen Dong. <br>
 *The Photogrammetric Record (PHOR)* 2024
 
 </div>
@@ -58,13 +58,14 @@ My research interests robot mapping and positioning, such as LiDAR SLAM, Place R
 
 [3D Detection of Extraterrestrial Lava Tunnels Based on Lightweight Mobile Measurement System and Surface Verification on Earth](https://jdse.bit.edu.cn/sktcxb/article/doi/10.15982/j.issn.2096-9287.2024.20230143). 
 
-**Xin Zhao**, Fuxun Liang, Jianping Li,  Bisheng Yan†. 
+**Xin Zhao**, Fuxun Liang, Jianping Li,  Bisheng Yan†. <br>
 *Journal of Deep Space Exploration* 2024
 
 </div>
 </div>
 
 
++ ``JAG 2023`` [Real-time automated forest field inventory using a compact low-cost helmet-based laser scanning system]([https://ieeexplore.ieee.org/abstract/document/10123040](https://www.sciencedirect.com/science/article/pii/S1569843223001218)). Jianping Li, Bisheng Yang, Yandi Yang, **Xin Zhao**, Youqi Liao, Ningning Zhu, Wenxia Dai, Rundong Liu, Ruibo Chen, Zhen Dong.
 
 <!--
 + ``TGRS 2024`` [A novel method for registration of MLS and stereo reconstructed point clouds](https://ieeexplore.ieee.org/abstract/document/10500860). Xiaochen Yang, Haiping Wang, Zhen Dong, Yuan Liu, **Yuhao Li**, Bisheng Yang. (SCI1-TOP, IF:  8.2). \|[Code](https://github.com/WHU-USI3DV/MSReg).
