@@ -31,7 +31,7 @@ My research interests robot mapping and positioning, such as LiDAR SLAM, Place R
 -->
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS J 2023</div><img src='images/publications/ISPRS20230921.png' alt="sym" width="100%"></div></div>
